@@ -1,0 +1,19 @@
+{
+  "icon": "j.svg",
+  "vm": {
+    "composefile": "docker-compose.yaml",
+    "exposes": {
+      "socket": "extension-image-size-extractor.sock"
+    }
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "Image-Size-Extractor",
+      "src": "index.html",
+      "root": "ui",
+      "backend": {
+        "socket": "extension-image-size-extractor.sock"
+      }
+    }
+  }
+}
