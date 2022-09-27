@@ -42,3 +42,6 @@ After the successfull installation
   ![image](https://user-images.githubusercontent.com/76421551/192453684-3c808a95-3c58-4641-a6a7-7fdcd9c16517.png)
   
 ## Visit the Demo for demonstration
+
+[Linkedin](https://www.linkedin.com/in/jiyanpatil07/)
+[Twitter](https://twitter.com/JiyanPatil07)
