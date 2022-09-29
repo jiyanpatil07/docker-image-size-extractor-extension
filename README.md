@@ -1,3 +1,10 @@
+## A Simple image size extractor 
+
+## The extension will pull the size of the any public image like node or mysql or if to search for the specific image of the any user search like username/imageName
+e.g jiyanpatil07/myapi
+      
+
+
 ## Demo
 
 [screen-capture.webm](https://user-images.githubusercontent.com/76421551/192455851-247bd642-76ef-4055-953f-6a8776fe4273.webm)
