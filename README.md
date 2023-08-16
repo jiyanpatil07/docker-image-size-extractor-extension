@@ -1,6 +1,6 @@
 <img src="[docker](https://user-images.githubusercontent.com/76421551/204878280-a6f40f65-af26-4996-9955-cc8e2dcc8b3b.png)" align="right" />
 
-# Docker Extension that got accepted at [Docker](https://github.com/docker/hacktoberfest-2022#-swag)
+# Docker Extension that got Selected at [Docker](https://github.com/docker/hacktoberfest-2022#-swag)
   [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > 
 
